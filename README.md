@@ -1,4 +1,4 @@
-Power BI Dashboard – Superstore Retail Performance Analysis
+#Power BI Dashboard – Superstore Retail Performance Analysis
 
 I created an interactive Power BI dashboard to analyze retail performance across regions, focusing on sales, profit, and customer behavior. This dashboard delivers deep insights into business growth, helping identify top-performing areas, categories, and customer segments.
 📊 Key Highlights
